@@ -20,7 +20,11 @@ Gabor是非正交的，不同特征分量之间有冗余。
 
 [典型相关性分析(canonical correlation analysis, CCA)](https://github.com/weenershine/multi-view-cluster/blob/main/CCA.md)
 
-[主成分分析(Principal Component Analysis，PCA)](https://baike.baidu.com/item/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/829840?fromtitle=%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90%E6%B3%95&fromid=2652206&fr=aladdin)
+[主成分分析(Principal Component Analysis，PCA)](https://github.com/weenershine/multi-view-cluster/blob/main/PCA.md)
+
+[奇异点分解(Singular Value Decomposition, SVD)](https://github.com/weenershine/multi-view-cluster/edit/main/SVD.md)
+
+
 
 [线性判别分析(linear discriminant analysis，LDA)](https://blog.csdn.net/YangMax1/article/details/121017201)
 
@@ -28,6 +32,8 @@ Gabor是非正交的，不同特征分量之间有冗余。
 
 [最大似然估计](https://zhuanlan.zhihu.com/p/55791843)
 
-[]()
+
+MATLAB
+[km_toolbox](https://github.com/steven2358/kmbox)
 
 []()
