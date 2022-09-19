@@ -17,6 +17,7 @@ Gabor是非正交的，不同特征分量之间有冗余。
 
 
 数据分析方法
+
 [典型相关性分析(canonical correlation analysis, CCA)](https://blog.csdn.net/xq151750111/article/details/123426585)
 
 [主成分分析(Principal Component Analysis，PCA)](https://baike.baidu.com/item/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/829840?fromtitle=%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90%E6%B3%95&fromid=2652206&fr=aladdin)
